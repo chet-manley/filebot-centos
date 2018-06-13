@@ -1,4 +1,4 @@
-# Prerequisits
+# Prerequisites
 Install mediainfo
 ```shell
 yum install mediainfo
