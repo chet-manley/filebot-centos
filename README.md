@@ -1,10 +1,6 @@
 # Prerequisites
-Install mediainfo
+Install JRE 8 and mediainfo
 ```shell
-yum install mediainfo
-```
-Install JRE 8+
-```shell
-yum install java-1.8.0-openjdk-headless
+yum install java-1.8.0-openjdk-headless mediainfo
 ```
 
