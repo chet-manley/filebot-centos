@@ -19,9 +19,6 @@ APP_ROOT=`cd "$PRG_DIR" && pwd`
 
 # add package lib folder to library path
 PACKAGE_LIBRARY_PATH="$APP_ROOT/lib/$(uname -m)"
-#PACKAGE_LIBRARY_PATH="./lib/"
-
-echo "PACKAGE_LIBRARY_PATH: ${PACKAGE_LIBRARY_PATH}"
 
 # restore original working dir
 cd "$WORKING_DIR"
